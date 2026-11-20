@@ -1,0 +1,10 @@
+/Data/*
+!/Data/IMG_Referencia/
+/Data/IMG_Referencia/*
+!/Data/IMG_Referencia/d04e9c9a-574c-4e6f-9ccf-ec0edb103547.jpeg
+!/Data/IMG_Referencia/e450e06d-7cf7-43cc-b366-6aa4ef1a0598.jpeg
+/Generadas/
+/Comprimidos/
+/Archivo_versiones_anteriores/
+__pycache__/
+.env
